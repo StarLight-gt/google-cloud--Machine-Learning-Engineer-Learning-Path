@@ -6,18 +6,4 @@ This repository contains the solutions for the [Google Cloud Skills Boost](https
 
 ## Challenge Labs
 
-- [GSP101](./challenge-labs/GSP101/index.md) Google Cloud Essential Skills
-- [GSP301](./challenge-labs/GSP301/index.md) Deploy a Compute Instance with a Remote Startup Script
-- [GSP303](./challenge-labs/GSP303/index.md) Configure Secure RDP using a Windows Bastion Host
-- [GSP304](./challenge-labs/GSP304/index.md) Build and Deploy a Docker Image to a Kubernetes Cluster
-- [GSP305](./challenge-labs/GSP305/index.md) Scale Out and Update a Containerized Application on a Kubernetes Cluster
-- [GSP306](./challenge-labs/GSP306/index.md) Migrate a MySQL Database to Google Cloud SQL
-- [GSP313](./challenge-labs/GSP313/index.md) Create and Manage Cloud Resources
-- [GSP315](./challenge-labs/GSP315/index.md) Perform Foundational Infrastructure Tasks in Google Cloud
-- [GSP319](./challenge-labs/GSP319/index.md) Build a Website on Google Cloud
-- [GSP322](./challenge-labs/GSP322/index.md) Build and Secure Networks in Google Cloud
-- [GSP341](./challenge-labs/GSP341/index.md) Create ML Models with BigQuery ML
-- [GSP342](./challenge-labs/GSP342/index.md) Ensure Access & Identity in Google Cloud
-- [GSP345](./challenge-labs/GSP345/index.md) Automating Infrastructure on Google Cloud with Terraform
-- [GSP787](./challenge-labs/GSP787/index.md) Insights from Data with BigQuery
-- (./Challenge Labs/GSP327)
+- [GSP327](./Challenge%20Labs/GSP327) Engineer Data for Predictive Modeling with BigQuery ML
