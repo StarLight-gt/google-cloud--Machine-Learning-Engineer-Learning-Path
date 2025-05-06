@@ -6,4 +6,4 @@ This repository contains the solutions for the [Google Cloud Skills Boost](https
 
 ## Challenge Labs
 
-- [GSP327](./Challenge%20Labs/GSP327) Engineer Data for Predictive Modeling with BigQuery ML
+- [GSP327](./Challenge%20Labs/GSP327.md) Engineer Data for Predictive Modeling with BigQuery ML
