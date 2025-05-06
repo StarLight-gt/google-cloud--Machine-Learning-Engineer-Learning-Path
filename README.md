@@ -20,3 +20,4 @@ This repository contains the solutions for the [Google Cloud Skills Boost](https
 - [GSP342](./challenge-labs/GSP342/index.md) Ensure Access & Identity in Google Cloud
 - [GSP345](./challenge-labs/GSP345/index.md) Automating Infrastructure on Google Cloud with Terraform
 - [GSP787](./challenge-labs/GSP787/index.md) Insights from Data with BigQuery
+- (./Challenge Labs/GSP327)
