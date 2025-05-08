@@ -12,4 +12,4 @@ Module 1: Introduction to Vertex AI Feature Store
 - [Basic Feature Engineering to Reach More E cient Machine Learning](https://towardsdatascience.com/basic-feature-engineering-to-reach-more-efficient-machine-learning-6294022e17a5)
 - [Automated Feature Engineering for Predictive Modeling](https://towardsdatascience.com/automated-feature-engineering-for-predictive-modeling-d8c9fa4e478b)
 
-[courses/machine_learning](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/8eb5aee360fe9c08984de36fd8d67ab103f010fd/courses/machine_learning)
+[GITHUB courses/machine_learning](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/8eb5aee360fe9c08984de36fd8d67ab103f010fd/courses/machine_learning)
