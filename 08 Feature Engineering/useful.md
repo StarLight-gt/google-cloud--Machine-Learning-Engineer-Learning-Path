@@ -1,0 +1,3 @@
+
+- [GITHUB courses/machine_learning](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/8eb5aee360fe9c08984de36fd8d67ab103f010fd/courses/machine_learning)
+- [Tensorflow playground](http://playground.tensorflow.org/#activation=relu&batchSize=5&dataset=gauss&regDataset=reg-plane&learningRate=0.01&regularizationRate=0&noise=35&networkShape=5,2,2,2&seed=0.43388&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=true&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
