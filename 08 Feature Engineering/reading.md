@@ -13,3 +13,8 @@ Module 1: Introduction to Vertex AI Feature Store
 - [Automated Feature Engineering for Predictive Modeling](https://towardsdatascience.com/automated-feature-engineering-for-predictive-modeling-d8c9fa4e478b)
 
 [GITHUB courses/machine_learning](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/8eb5aee360fe9c08984de36fd8d67ab103f010fd/courses/machine_learning)
+
+ Module 3: Feature Engineering
+- [Feature Engineering using Keras Lambda Layers for complete training pipeline](https://medium.com/mlearning-ai/feature-engineering-using-keras-lambda-layers-ae0c6d3c904f)
+- [Using the BigQuery ML TRANSFORM clause for feature engineering](https://cloud.google.com/bigquery-ml/docs/bigqueryml-transform)
+- [How can Keras be used for feature extraction using a sequential model using Python?](https://www.tutorialspoint.com/how-can-keras-be-used-for-feature-extraction-using-a-sequential-model-using-python)
